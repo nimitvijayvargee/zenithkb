@@ -15,7 +15,7 @@ A normal 6x4 layout in the style of a numpad is used, along with RGB LEDs. This 
 The main keyboard is built on ZMK firmware. The auxilary numpad is based on QMK since it's wired, but can be used witH ZMK if used with the Xiao NRF52840.
 
 ## Stackup
-![stackup](assets\stackup.png)
+![stackup](assets/stackup.png)
 |   |                                           |
 |---|-------------------------------------------|
 | 1 | Main Case (Battery Housing and Standoffs) |
@@ -27,14 +27,14 @@ The main keyboard is built on ZMK firmware. The auxilary numpad is based on QMK 
 | 7 | Top Cover                                 |
 
 PCB screws are through the PCB into the main case. Plate screws are from the middle plate into the main case. Inserts are to be installed where shown in this image. 12 M3 inserts are needed in total. <br/>
-![standoffs](assets\inserts.png)
+![standoffs](assets/inserts.png)
 
 ## Renders
-![main kb](assets\renders\main.png) <br/>
-![covered kb](assets\renders\covered.png) <br/>
-![macropad](assets\renders\macropad.png)
+![main kb](assets/renders/main.png) <br/>
+![covered kb](assets/renders/covered.png) <br/>
+![macropad](assets/renders/macropad.png)
 
-![magazine](assets\magazine.png)
+![magazine](assets/magazine.png)
 
 
 ## BOM
