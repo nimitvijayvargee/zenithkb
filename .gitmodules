@@ -1,0 +1,3 @@
+[submodule "cad/zenith-zmk"]
+	path = cad/zenith-zmk
+	url = https://github.com/nimitvijayvargee/zenith-zmk
