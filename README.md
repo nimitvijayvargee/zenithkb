@@ -47,22 +47,23 @@ PCB screws are through the PCB into the main case. Plate screws are from the mid
 
 Here's a rough BOM of all the parts you'll need to recreate this project!
 
-| Item               | URL                                                                                | Cost       |
-|--------------------|------------------------------------------------------------------------------------|------------|
-| PCB                | https://robu.in/                                                                   | 54         |
-| Switches           | https://stackskb.com/store/akko-v3-matcha-green-pro-switch/                        | 35         |
-| Acrylic Plate      | https://robu.in/                                                                   | 4          |
-| Keycaps            | https://curiositycaps.in/products/green-black-gradient-cherry-side-backlit-keycaps | 17         |
-| Hotswap Sockets    | https://stackskb.com/store/gateron-hotswap-sockets/                                | 11         |
-| Diodes             | https://robu.in/                                                                   | 2          |
-| LEDs               | https://etstore.in/                                                                | 12         |
-| NRF52840 Pro Micro | https://robu.in/                                                                   | 8          |
-| Boost Converter    | https://robu.in/                                                                   | 1          |
-| Inductor           | https://robu.in/                                                                   | 1          |
-| Filament           | https://india.numakers.com/                                                        | 10         |
-| Shift Register     | https://robu.in/                                                                   | 2          |
-| Stabilizers        | https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/                   | 25         |
-| Xiao RP2040        | https://robu.in/                                                                   | 5          |
-| Fasteners, Inserts | https://onlyscrews.in/                                                             | ~10        |
-| Magnets            | https://onlyscrews.in/                                                             | 5          |
-|                    | TOTAL                                                                              | 202        |
+| Item               | URL                                                                                                                     | Cost       |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------|------------|
+| PCB                | https://robu.in/                                                                                                        | 54         |
+| Switches           | https://stackskb.com/store/akko-v3-matcha-green-pro-switch/                                                             | 35         |
+| Acrylic Plate      | https://robu.in/                                                                                                        | 4          |
+| Keycaps            | https://curiositycaps.in/products/green-black-gradient-cherry-side-backlit-keycaps                                      | 17         |
+| Hotswap Sockets    | https://stackskb.com/store/gateron-hotswap-sockets/                                                                     | 11         |
+| Diodes             | https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/                                                               | 2          |
+| LEDs               | (i alr have this)                                                                                                       | 12         |
+| NRF52840 Pro Micro | https://robu.in/product/promicro-nrf52840-development-board/                                                            | 8          |
+| Boost Converter    | https://robu.in/product/mt3608-xian-aerosemi-tech-boost-type-adjustable-2a-2v24v-sot-23-6-dc-dc-converters-rohs/        | 1          |
+| Inductor           | https://robu.in/product/swpa5040s4r7nt-sunlord-4-7uh-30-3a-30-ohm-smd-5-0x5-0x4-0mm-power-inductors/                    | 1          |
+| Filament           | https://india.numakers.com/products/pla-filament?variant=43307592286377                                                 | 10         |
+| Shift Register     | https://robu.in/product/1-month-warranty-1354/                                                                          | 2          |
+| Inverter           | https://robu.in/product/sn74hct14n-texas-instruments-logic-ic-inverter-hex-1-inputs-14-pins-dip-74hct14/                | <1         |
+| Stabilizers        | https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/                                                        | 25         |
+| Xiao RP2040        | (i alr have this)                                                                                                       | 5          |
+| Fasteners, Inserts | (i alr have this)                                                                                                       | ~10        |
+| Magnets            | (i alr have this)                                                                                                       | 5          |
+|                    | TOTAL                                                                                                                   | 202        |
