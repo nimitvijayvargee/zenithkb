@@ -11,6 +11,12 @@ Zenith's core hardware is straightforward. I'd categorize the hardware into 3 se
 On the Numpad side of things, the main board is switched with a Xiao RP2040, although a Xiao NRF52840 + Battery can also be used without any changes to the PCB. A cutout under the Xiao has been provided if a battery is to be connected to the back of the board.
 A normal 6x4 layout in the style of a numpad is used, along with RGB LEDs. This time, the 5V bus is provided to the LEDs via the USB VBUS, since the numpad is designed to be used in wired mode.
 
+### Schematic
+![schem 1](assets/schem/1.png)
+![schem 2](assets/schem/2.png)
+![macropad](assets/schem/3.png)
+### PCB
+![PCB](assets/PCB.png)
 ## Software
 The main keyboard is built on ZMK firmware. The auxilary numpad is based on QMK since it's wired, but can be used witH ZMK if used with the Xiao NRF52840.
 
