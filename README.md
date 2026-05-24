@@ -41,6 +41,7 @@ PCB screws are through the PCB into the main case. Plate screws are from the mid
 
 Here's a rough BOM of all the parts you'll need to recreate this project!
 
+| Item               | URL                                                                                | Cost       |
 |--------------------|------------------------------------------------------------------------------------|------------|
 | PCB                | https://robu.in/                                                                   | 54         |
 | Switches           | https://stackskb.com/store/akko-v3-matcha-green-pro-switch/                        | 35         |
