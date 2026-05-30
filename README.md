@@ -1,7 +1,7 @@
 # Zenith
 Zenith is a 75% (+ numpad!) wireless keyboard designed mainly for portability and ease of use. Based around the NRF52840, it works on ZMK firmware. 
-
-
+I made Zenith after realizing that you can embed magnets into 3D prints, and my first thought was "How do I put this in a keyboard?". I created a few small sketchups to conceal the screws and highlight the main design, while staying sleek and practical for most stuff. I also made a few keyboards before, but never made one wireless because of complexity. This time, I decided to jam pack as many features I could think of, and here is where I ended up!
+Features include RGB Matrix (per-key), optional split spacebar, 2 encoders, optional OLED, Wireless + 4000mAh battery (30+ hours I hope!), and hotswap!
 ## Hardware
 Zenith's core hardware is straightforward. I'd categorize the hardware into 3 sections.
 - The main matrix is where the actual key-scan occurs. Due to the Pro micro's low GPIO count, two shift registers are connected to the columns. The rows are on the main board itself. This is a standard COL2ROW layout :)
